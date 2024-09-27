@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite errors="0" failures="0" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="1" time="0.218">
+    <testcase classname="Title of your feature" name="Add two numbers" time="0.093">
+        <system-out><![CDATA[Given the calculator is run.................................................passed
+When the input is "5+5".....................................................passed
+Then the output should be "10"..............................................passed
+And the console shows "La pantalla muestra 10"..............................passed
+]]></system-out>
+    </testcase>
+</testsuite>
